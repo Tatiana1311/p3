@@ -10,7 +10,9 @@ A program that generates random psedo-latin text and random users, which can be 
 
 ## Demo
 
-I'll be attending my Monday section with Jenni to do the live demo.
+Link to the recorded demo version:
+
+[http://screencast.com/t/y9oaghSN]
 
 ## Details for teaching team
 
